@@ -27,7 +27,7 @@ export function WelcomePage() {
             Run invoices, customers, and payments from a sharper modern workspace.
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-            BillBook brings your billing operations into one polished system built for speed, clarity, and daily business momentum.
+            QuickBill brings your billing operations into one polished system built for speed, clarity, and daily business momentum.
           </p>
           <div className="mt-10 grid gap-4 sm:grid-cols-3">
             {[
@@ -55,7 +55,7 @@ export function WelcomePage() {
 
             <div className="space-y-2">
               <h1 className="text-3xl font-semibold tracking-tight text-slate-950">
-                BillBook
+                QuickBill
               </h1>
               <p className="max-w-[320px] text-sm leading-6 text-slate-600">
                 A new-generation invoicing workspace for businesses that want cleaner operations and faster billing.
