@@ -54,7 +54,7 @@ export function WelcomePage() {
             </div>
 
             <div className="space-y-2">
-              <h1 className="text-lg font-semibold tracking-tight text-white">
+              <h1 className="text-3xl font-semibold tracking-tight text-black-950">
                 QuickBill
               </h1>
               <p className="max-w-[320px] text-sm leading-6 text-slate-600">
@@ -80,7 +80,7 @@ export function WelcomePage() {
         </div>
 
           <div className="space-y-2">
-          <p className="text-xs uppercase tracking-[0.3em] text-sky-700/80">
+          <p className="text-x uppercase tracking-[0.3em] text-sky-700/80">
             Fast. Clear. Professional.
           </p>
           <p className="text-xs text-slate-500">
